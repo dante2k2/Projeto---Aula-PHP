@@ -7,7 +7,9 @@
 	Delegadis gente finis, bibendum egestas augue arcu ut est. Manduma pindureta quium dia nois paga. Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Diuretics paradis num copo é motivis de denguis.
 	A ordem dos tratores não altera o pão duris Interagi no mé, cursus quis, vehicula ac nisi. Viva Forevis aptent taciti sociosqu ad litora torquent Si num tem leite então bota uma pinga aí cumpadi!</p>
 
-	<img class="img-responsive center-block" src="projeto.jpg">
+	<div class="container" style="margin: 20px auto">
+		<img class="img-responsive center-block" src="projeto.jpg">
+	</div>
 
 	<p>Mussum Ipsum, cacilds vidis litro abertis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Ta deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.” Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Detraxit consequat et quo num tendi nada.
 	Paisis, filhis, espiritis santis. Si num tem leite então bota uma pinga aí cumpadi! Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum. Copo furadis é disculpa de bebadis, arcu quam euismod magna.
